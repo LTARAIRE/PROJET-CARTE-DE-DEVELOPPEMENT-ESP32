@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=3V3 Pin=C106-1
+Removed Pin From Net: NetName=GND Pin=C106-2
+Removed Pin From Net: NetName=3V3 Pin=C108-1
+Removed Pin From Net: NetName=GND Pin=C108-2
+Removed Pin From Net: NetName=3V3 Pin=C110-1
+Removed Pin From Net: NetName=GND Pin=C110-2
+Removed Pin From Net: NetName=3V3 Pin=C111-1
+Removed Pin From Net: NetName=GND Pin=C111-2
+Removed Pin From Net: NetName=3V3 Pin=C112-1
+Removed Pin From Net: NetName=GND Pin=C112-2
+Removed Pin From Net: NetName=NetC113_1 Pin=C113-1
+Removed Pin From Net: NetName=GND Pin=C113-2
+Removed Pin From Net: NetName=3V3 Pin=C114-1
+Removed Pin From Net: NetName=GND Pin=C114-2
+Removed Pin From Net: NetName=NetJ203_1 Pin=J203-1
+Removed Pin From Net: NetName=3V3 Pin=L100-1
+Removed Pin From Net: NetName=NetC113_1 Pin=L100-2
+Removed Pin From Net: NetName=Vbat Pin=Q200-2
+Removed Pin From Net: NetName=Valim Pin=Q200-3
+Removed Pin From Net: NetName=Vbat Pin=R200-2
+Removed Pin From Net: NetName=NetC113_1 Pin=U100-3
+Removed Pin From Net: NetName=NetC113_1 Pin=U100-4
+Removed Pin From Net: NetName=NetJ203_1 Pin=U100-23
+Removed Member From Class: ClassName=Sheet1 Member=C111
+Removed Member From Class: ClassName=Sheet1 Member=C112
+Removed Member From Class: ClassName=Sheet1 Member=C113
+Removed Member From Class: ClassName=Sheet1 Member=C114
+Removed Member From Class: ClassName=Sheet1 Member=C119
+Removed Member From Class: ClassName=Sheet1 Member=C120
+Removed Member From Class: ClassName=Sheet1 Member=C121
+Removed Member From Class: ClassName=Sheet1 Member=L101
+Change Component Comment : Designator=C103 Old Comment=0.1uF New Comment=10uF
+Change Component Comment : Designator=C104 Old Comment=1uF New Comment=0.1uF
+Change Component Comment : Designator=R202 Old Comment=470K New Comment=470R
+Change Component Designator: OldDesignator=C107 NewDesignator=C106
+Change Component Designator: OldDesignator=C109 NewDesignator=C107
+Change Component Designator: OldDesignator=C119 NewDesignator=C108
+Change Component Designator: OldDesignator=C120 NewDesignator=C109
+Change Component Designator: OldDesignator=C121 NewDesignator=C110
+Change Component Designator: OldDesignator=C201 NewDesignator=C202
+Change Component Designator: OldDesignator=C202 NewDesignator=C201
+Change Component Designator: OldDesignator=L101 NewDesignator=L100
+Change Component Designator: OldDesignator=R104 NewDesignator=R103
+Added Component: Designator=R102(RESC1005X06N)
+Added Component: Designator=R104(RESC1005X06N)
+Add Pin To Net: Unknown Pin: Pin Q100-3
+Add Pin To Net: Unknown Pin: Pin Q101-1
+Add Pin To Net: Unknown Pin: Pin Q101-2
+Added Pin To Net: NetName=Valim Pin=Q200-2
+Added Pin To Net: NetName=Vbat Pin=Q200-3
+Added Pin To Net: NetName=NetC113_1 Pin=R102-2
+Added Pin To Net: NetName=NetJ203_1 Pin=R104-1
+Added Pin To Net: NetName=GND Pin=R200-2
+Added Pin To Net: NetName=3V3 Pin=U100-3
+Added Pin To Net: NetName=3V3 Pin=U100-4
+Added Pin To Net: NetName=NetC113_1 Pin=U101-23
+Change Net Name : Old Net Name=NetC109_1 New Net Name=EN
+Change Net Name : Old Net Name=NetC113_1 New Net Name=NetQ101_2
+Change Net Name : Old Net Name=NetC119_1 New Net Name=NetC108_1
+Change Net Name : Old Net Name=NetJ203_1 New Net Name=NetQ101_1
+Change Net Name : Old Net Name=NetR104_2 New Net Name=NetR103_2
+Added Pin To Net: NetName=GPIO0 Pin=J203-1
+Added Pin To Net: NetName=GPIO0 Pin=U100-23
+Added Net: Name=GPIO0
+Added Pin To Net: NetName=NetQ100_1 Pin=R102-1
+Added Net: Name=NetQ100_1
+Added Pin To Net: NetName=NetQ100_2 Pin=R104-2
+Added Pin To Net: NetName=NetQ100_2 Pin=U101-19
+Added Net: Name=NetQ100_2
+Add Class Member: Failed to add class member : Component Q100 SS8050-G
+Add Class Member: Failed to add class member : Component Q101 SS8050-G
+Added Member To Class: ClassName=Sheet1 Member=Component R102 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R104 10K

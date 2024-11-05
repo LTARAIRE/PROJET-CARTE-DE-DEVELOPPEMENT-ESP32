@@ -1,0 +1,196 @@
+Removed Pin From Net: NetName=GND Pin=D201-2
+Removed Pin From Net: NetName=USB_FLT_N Pin=D201-3
+Removed Pin From Net: NetName=USB_FLT_P Pin=D201-4
+Removed Pin From Net: NetName=VBUS Pin=D201-5
+Removed Pin From Net: NetName=GND Pin=J200-A1
+Removed Pin From Net: NetName=VBUS Pin=J200-A4
+Removed Pin From Net: NetName=NetJ200_A5 Pin=J200-A5
+Removed Pin From Net: NetName=USB_FLT_P Pin=J200-A6
+Removed Pin From Net: NetName=USB_FLT_N Pin=J200-A7
+Removed Pin From Net: NetName=VBUS Pin=J200-A9
+Removed Pin From Net: NetName=GND Pin=J200-A12
+Removed Pin From Net: NetName=GND Pin=J200-B1
+Removed Pin From Net: NetName=VBUS Pin=J200-B4
+Removed Pin From Net: NetName=NetJ200_B5 Pin=J200-B5
+Removed Pin From Net: NetName=USB_FLT_P Pin=J200-B6
+Removed Pin From Net: NetName=USB_FLT_N Pin=J200-B7
+Removed Pin From Net: NetName=VBUS Pin=J200-B9
+Removed Pin From Net: NetName=GND Pin=J200-B12
+Removed Pin From Net: NetName=GND Pin=J200-S1
+Removed Pin From Net: NetName=GND Pin=J200-S2
+Removed Pin From Net: NetName=GND Pin=J200-S3
+Removed Pin From Net: NetName=GND Pin=J200-S4
+Removed Pin From Net: NetName=NetJ201_1 Pin=J201-1
+Removed Pin From Net: NetName=NetJ201_2 Pin=J201-2
+Removed Pin From Net: NetName=NetJ201_3 Pin=J201-3
+Removed Pin From Net: NetName=NetJ201_4 Pin=J201-4
+Removed Pin From Net: NetName=NetJ201_5 Pin=J201-5
+Removed Pin From Net: NetName=NetJ201_6 Pin=J201-6
+Removed Pin From Net: NetName=NetJ201_7 Pin=J201-7
+Removed Pin From Net: NetName=NetJ201_8 Pin=J201-8
+Removed Pin From Net: NetName=NetJ201_9 Pin=J201-9
+Removed Pin From Net: NetName=GND Pin=J201-10
+Removed Pin From Net: NetName=3V3 Pin=J202-1
+Removed Pin From Net: NetName=Vbat Pin=J202-2
+Removed Pin From Net: NetName=VBUS Pin=J202-3
+Removed Pin From Net: NetName=NetJ202_4 Pin=J202-4
+Removed Pin From Net: NetName=NetJ202_5 Pin=J202-5
+Removed Pin From Net: NetName=NetJ202_6 Pin=J202-6
+Removed Pin From Net: NetName=NetJ202_7 Pin=J202-7
+Removed Pin From Net: NetName=EN Pin=J202-9
+Removed Pin From Net: NetName=GND Pin=J202-10
+Removed Pin From Net: NetName=GPIO0 Pin=J203-1
+Removed Pin From Net: NetName=GND Pin=J203-2
+Removed Pin From Net: NetName=USB_D_N Pin=L200-1
+Removed Pin From Net: NetName=USB_FLT_N Pin=L200-2
+Removed Pin From Net: NetName=USB_FLT_P Pin=L200-3
+Removed Pin From Net: NetName=USB_D_P Pin=L200-4
+Removed Pin From Net: NetName=Vbat_UNCUT Pin=P200-1
+Removed Pin From Net: NetName=GND Pin=P201-1
+Removed Pin From Net: NetName=GND Pin=R201-1
+Removed Pin From Net: NetName=NetJ200_A5 Pin=R201-2
+Removed Pin From Net: NetName=GND Pin=R204-1
+Removed Pin From Net: NetName=NetJ200_B5 Pin=R204-2
+Removed Pin From Net: NetName=NetJ202_4 Pin=U100-5
+Removed Pin From Net: NetName=NetJ202_5 Pin=U100-6
+Removed Pin From Net: NetName=NetJ202_6 Pin=U100-7
+Removed Pin From Net: NetName=NetJ202_7 Pin=U100-8
+Removed Pin From Net: NetName=NetJ201_1 Pin=U100-10
+Removed Pin From Net: NetName=NetJ201_2 Pin=U100-11
+Removed Pin From Net: NetName=NetJ201_3 Pin=U100-12
+Removed Pin From Net: NetName=NetJ201_4 Pin=U100-13
+Removed Pin From Net: NetName=NetJ201_5 Pin=U100-35
+Removed Pin From Net: NetName=NetJ201_7 Pin=U100-38
+Removed Pin From Net: NetName=NetJ201_8 Pin=U100-39
+Removed Pin From Net: NetName=NetJ201_9 Pin=U100-42
+Removed Member From Class: ClassName=Sheet2 Member=D201
+Removed Member From Class: ClassName=Sheet2 Member=J200
+Removed Member From Class: ClassName=Sheet2 Member=J201
+Removed Member From Class: ClassName=Sheet2 Member=J202
+Removed Member From Class: ClassName=Sheet2 Member=J203
+Removed Member From Class: ClassName=Sheet2 Member=L200
+Removed Member From Class: ClassName=Sheet2 Member=P200
+Removed Member From Class: ClassName=Sheet2 Member=P201
+Removed Member From Class: ClassName=Sheet2 Member=R204
+Removed Member From Class: ClassName=Sheet2 Member=R205
+Change Component Designator: OldDesignator=C102 NewDesignator=C104
+Change Component Designator: OldDesignator=C103 NewDesignator=C102
+Change Component Designator: OldDesignator=C104 NewDesignator=C103
+Change Component Designator: OldDesignator=C108 NewDesignator=C107
+Change Component Designator: OldDesignator=C109 NewDesignator=C108
+Change Component Designator: OldDesignator=C110 NewDesignator=C109
+Change Component Designator: OldDesignator=C111 NewDesignator=C110
+Change Component Designator: OldDesignator=R202 NewDesignator=R201
+Change Component Designator: OldDesignator=R203 NewDesignator=R202
+Change Component Designator: OldDesignator=R205 NewDesignator=R203
+Added Component: Designator=D300(824011)
+Added Component: Designator=J300(USB4085-GF-A)
+Added Component: Designator=J301(TE_1-826629-0)
+Added Component: Designator=J302(TE_1-826629-0)
+Added Component: Designator=J303(61300211121)
+Added Component: Designator=L300(744232090)
+Added Component: Designator=P300(Plage CMS 10x5)
+Add component (AddParameter): Name = "Fabricant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_statut"; Value = "ok"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "L30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN_Fab"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Plage CMS 10x5"; VariantName = "[No Variations]"
+Added Component: Designator=P301(Plage CMS 10x5)
+Add component (AddParameter): Name = "Fabricant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_statut"; Value = "ok"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "L30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN_Fab"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Plage CMS 10x5"; VariantName = "[No Variations]"
+Added Component: Designator=R300(RESC1005X06N)
+Added Component: Designator=R301(RESC1005X06N)
+Added Pin To Net: NetName=GND Pin=D300-2
+Added Pin To Net: NetName=USB_FLT_N Pin=D300-3
+Added Pin To Net: NetName=USB_FLT_P Pin=D300-4
+Added Pin To Net: NetName=VBUS Pin=D300-5
+Added Pin To Net: NetName=GND Pin=J300-A1
+Added Pin To Net: NetName=VBUS Pin=J300-A4
+Added Pin To Net: NetName=NetJ202_7 Pin=J300-A5
+Added Pin To Net: NetName=USB_FLT_P Pin=J300-A6
+Added Pin To Net: NetName=USB_FLT_N Pin=J300-A7
+Added Pin To Net: NetName=VBUS Pin=J300-A9
+Added Pin To Net: NetName=GND Pin=J300-A12
+Added Pin To Net: NetName=GND Pin=J300-B1
+Added Pin To Net: NetName=VBUS Pin=J300-B4
+Added Pin To Net: NetName=NetJ202_6 Pin=J300-B5
+Added Pin To Net: NetName=USB_FLT_P Pin=J300-B6
+Added Pin To Net: NetName=USB_FLT_N Pin=J300-B7
+Added Pin To Net: NetName=VBUS Pin=J300-B9
+Added Pin To Net: NetName=GND Pin=J300-B12
+Added Pin To Net: NetName=GND Pin=J300-S1
+Added Pin To Net: NetName=GND Pin=J300-S2
+Added Pin To Net: NetName=GND Pin=J300-S3
+Added Pin To Net: NetName=GND Pin=J300-S4
+Added Pin To Net: NetName=NetJ202_5 Pin=J301-1
+Added Pin To Net: NetName=NetJ202_4 Pin=J301-2
+Added Pin To Net: NetName=NetJ201_9 Pin=J301-3
+Added Pin To Net: NetName=NetJ201_8 Pin=J301-4
+Added Pin To Net: NetName=NetJ201_7 Pin=J301-5
+Added Pin To Net: NetName=NetJ201_6 Pin=J301-6
+Added Pin To Net: NetName=NetJ201_5 Pin=J301-7
+Added Pin To Net: NetName=NetJ201_4 Pin=J301-8
+Added Pin To Net: NetName=NetJ201_3 Pin=J301-9
+Added Pin To Net: NetName=GND Pin=J301-10
+Added Pin To Net: NetName=3V3 Pin=J302-1
+Added Pin To Net: NetName=Vbat Pin=J302-2
+Added Pin To Net: NetName=VBUS Pin=J302-3
+Added Pin To Net: NetName=NetJ201_2 Pin=J302-4
+Added Pin To Net: NetName=NetJ201_1 Pin=J302-5
+Added Pin To Net: NetName=NetJ200_B5 Pin=J302-6
+Added Pin To Net: NetName=NetJ200_A5 Pin=J302-7
+Added Pin To Net: NetName=EN Pin=J302-9
+Added Pin To Net: NetName=GND Pin=J302-10
+Added Pin To Net: NetName=GPIO0 Pin=J303-1
+Added Pin To Net: NetName=GND Pin=J303-2
+Added Pin To Net: NetName=USB_D_N Pin=L300-1
+Added Pin To Net: NetName=USB_FLT_N Pin=L300-2
+Added Pin To Net: NetName=USB_FLT_P Pin=L300-3
+Added Pin To Net: NetName=USB_D_P Pin=L300-4
+Added Pin To Net: NetName=Vbat_UNCUT Pin=P300-1
+Added Pin To Net: NetName=GND Pin=P301-1
+Added Pin To Net: NetName=GND Pin=R300-1
+Added Pin To Net: NetName=NetJ202_7 Pin=R300-2
+Added Pin To Net: NetName=GND Pin=R301-1
+Added Pin To Net: NetName=NetJ202_6 Pin=R301-2
+Added Pin To Net: NetName=NetJ201_2 Pin=U100-5
+Added Pin To Net: NetName=NetJ201_1 Pin=U100-6
+Added Pin To Net: NetName=NetJ200_B5 Pin=U100-7
+Added Pin To Net: NetName=NetJ200_A5 Pin=U100-8
+Added Pin To Net: NetName=NetJ202_5 Pin=U100-10
+Added Pin To Net: NetName=NetJ202_4 Pin=U100-11
+Added Pin To Net: NetName=NetJ201_9 Pin=U100-12
+Added Pin To Net: NetName=NetJ201_8 Pin=U100-13
+Added Pin To Net: NetName=NetJ201_7 Pin=U100-35
+Added Pin To Net: NetName=NetJ201_5 Pin=U100-38
+Added Pin To Net: NetName=NetJ201_4 Pin=U100-39
+Added Pin To Net: NetName=NetJ201_3 Pin=U100-42
+Change Net Name : Old Net Name=NetC109_1 New Net Name=NetC108_1
+Change Net Name : Old Net Name=NetJ200_A5 New Net Name=NetJ302_7
+Change Net Name : Old Net Name=NetJ200_B5 New Net Name=NetJ302_6
+Change Net Name : Old Net Name=NetJ201_1 New Net Name=NetJ302_5
+Change Net Name : Old Net Name=NetJ201_2 New Net Name=NetJ302_4
+Change Net Name : Old Net Name=NetJ201_3 New Net Name=NetJ301_9
+Change Net Name : Old Net Name=NetJ201_4 New Net Name=NetJ301_8
+Change Net Name : Old Net Name=NetJ201_5 New Net Name=NetJ301_7
+Change Net Name : Old Net Name=NetJ201_6 New Net Name=NetJ301_6
+Change Net Name : Old Net Name=NetJ201_7 New Net Name=NetJ301_5
+Change Net Name : Old Net Name=NetJ201_8 New Net Name=NetJ301_4
+Change Net Name : Old Net Name=NetJ201_9 New Net Name=NetJ301_3
+Change Net Name : Old Net Name=NetJ202_4 New Net Name=NetJ301_2
+Change Net Name : Old Net Name=NetJ202_5 New Net Name=NetJ301_1
+Change Net Name : Old Net Name=NetJ202_6 New Net Name=NetJ300_B5
+Change Net Name : Old Net Name=NetJ202_7 New Net Name=NetJ300_A5
+Change Net Name : Old Net Name=NetR203_2 New Net Name=NetR202_2
+Change Net Name : Old Net Name=NetR205_1 New Net Name=NetR203_1
+Added Class: Name=Sheet3
+Added Room: Name=Sheet3
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Rule: Name=Schematic Differential Pairs Routing_5
+Added Rule: Name=Schematic Differential Pairs Routing_6
+Added Rule: Name=Schematic Differential Pairs Routing_7
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1

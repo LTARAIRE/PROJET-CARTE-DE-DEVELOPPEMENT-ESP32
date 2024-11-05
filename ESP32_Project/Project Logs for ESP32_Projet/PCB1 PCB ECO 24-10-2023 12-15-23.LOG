@@ -1,0 +1,8 @@
+Added Component: Designator=X100(430481025816)
+Added Pin To Net: NetName=Vbat_UNCUT Pin=X100-1
+Added Pin To Net: NetName=Vbat_UNCUT Pin=X100-2
+Added Pin To Net: NetName=Vbat Pin=X100-3
+Added Pin To Net: NetName=Vbat Pin=X100-4
+Added Member To Class: ClassName=Sheet1 Member=Component Q101 SS8050-G
+Added Member To Class: ClassName=Sheet1 Member=Component X100 430481025816
+Added Rule: Name=Schematic Width Constraint_1

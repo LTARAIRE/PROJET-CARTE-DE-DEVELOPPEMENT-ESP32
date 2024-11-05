@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C107-2
+Removed Member From Class: ClassName=Sheet1 Member=C107
+Added Member To Class: ClassName=Sheet2 Member=Component J200 Connecteur USB
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1

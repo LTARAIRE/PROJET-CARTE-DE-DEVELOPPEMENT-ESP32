@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=U0RXD Pin=U101-20
+Removed Pin From Net: NetName=U0TXD Pin=U101-21
+Change Component Designator: OldDesignator=C201 NewDesignator=C202
+Change Component Designator: OldDesignator=C202 NewDesignator=C203
+Change Component Designator: OldDesignator=C203 NewDesignator=C204
+Added Component: Designator=C201(CAPC1005X06N)
+Added Pin To Net: NetName=Vbat Pin=C201-1
+Added Pin To Net: NetName=GND Pin=C201-2
+Added Pin To Net: NetName=U0TXD Pin=U101-20
+Added Pin To Net: NetName=U0RXD Pin=U101-21
+Add Differential Pair: Number of nets in differential pair NetD201_3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ200_A6 is 1 instead of 2
+Added Member To Class: ClassName=Sheet2 Member=Component C204 1uF

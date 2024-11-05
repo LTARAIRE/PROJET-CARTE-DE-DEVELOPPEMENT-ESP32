@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=Vbat Pin=P200-1
+Added Pin To Net: NetName=Vbat_UNCUT Pin=P200-1

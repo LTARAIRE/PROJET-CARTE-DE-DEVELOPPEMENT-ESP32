@@ -1,0 +1,4 @@
+Added Component: Designator=DARR200(SD103AWS-7-F)
+Added Pin To Net: NetName=Valim Pin=DARR200-1
+Add Pin To Net: Unknown Pin: Pin DARR200-6
+Added Member To Class: ClassName=Sheet2 Member=Component DARR200 SD103AWS-7-F

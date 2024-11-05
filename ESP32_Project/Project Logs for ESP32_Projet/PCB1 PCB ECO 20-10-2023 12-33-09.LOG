@@ -1,0 +1,17 @@
+Added Component: Designator=Q100(SS8050-G)
+Added Component: Designator=Q101(SS8050-G)
+Added Pin To Net: NetName=NetQ100_1 Pin=Q100-1
+Added Pin To Net: NetName=NetQ100_2 Pin=Q100-2
+Added Pin To Net: NetName=EN Pin=Q100-3
+Added Pin To Net: NetName=NetQ101_1 Pin=Q101-1
+Added Pin To Net: NetName=NetQ101_2 Pin=Q101-2
+Added Pin To Net: NetName=GPIO0 Pin=Q101-3
+Added Member To Class: ClassName=Sheet1 Member=Component C106 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C108 1.2pF
+Added Member To Class: ClassName=Sheet1 Member=Component C109 1.5pF
+Added Member To Class: ClassName=Sheet1 Member=Component C110 0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C201 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component L100 1.8nH
+Added Member To Class: ClassName=Sheet1 Member=Component Q100 SS8050-G
+Added Member To Class: ClassName=Sheet1 Member=Component Q101 SS8050-G
+Added Member To Class: ClassName=Sheet1 Member=Component R104 10K

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetJ200_A6 Pin=J200-A6
+Removed Pin From Net: NetName=NetJ200_A6 Pin=J200-B6
+Added Component: Designator=R105(RESC1005X06N)
+Added Component: Designator=R106(RESC1005X06N)
+Added Pin To Net: NetName=NetD201_4 Pin=J200-A6
+Added Pin To Net: NetName=NetD201_4 Pin=J200-B6
+Added Pin To Net: NetName=NetJ200_A6 Pin=R105-1
+Added Pin To Net: NetName=Vbat Pin=R105-2
+Added Pin To Net: NetName=GND Pin=R106-1
+Added Pin To Net: NetName=NetJ200_A6 Pin=R106-2
+Added Pin To Net: NetName=NetJ200_A6 Pin=U100-20
+Change Net Name : Old Net Name=NetD201_3 New Net Name=USB_FLT_N
+Change Net Name : Old Net Name=NetD201_4 New Net Name=USB_FLT_P
+Change Net Name : Old Net Name=NetJ200_A6 New Net Name=NetR105_1
+Change Net Name : Old Net Name=NetL200_1 New Net Name=USB_D_N
+Change Net Name : Old Net Name=NetL200_4 New Net Name=USB_D_P
+Added Differential Pair: Name=USB_D
+Added Differential Pair: Name=USB_FLT
+Added Member To Class: ClassName=Sheet2 Member=Component C201 4,7uF
+Added Member To Class: ClassName=Sheet2 Member=Component C202 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component R105 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R106 10K

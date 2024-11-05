@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=J201 NewDesignator=J202
+Change Component Designator: OldDesignator=J202 NewDesignator=J203
+Added Component: Designator=J201(TE_1-826629-0)
+Added Pin To Net: NetName=GND Pin=J201-10
+Change Net Name : Old Net Name=NetJ201_4 New Net Name=NetJ202_4
+Change Net Name : Old Net Name=NetJ201_5 New Net Name=NetJ202_5
+Change Net Name : Old Net Name=NetJ201_6 New Net Name=NetJ202_6
+Change Net Name : Old Net Name=NetJ201_7 New Net Name=NetJ202_7
+Change Net Name : Old Net Name=NetJ201_8 New Net Name=NetJ202_8
+Change Net Name : Old Net Name=NetJ202_1 New Net Name=NetJ203_1
+Added Pin To Net: NetName=NetJ201_1 Pin=J201-1
+Added Pin To Net: NetName=NetJ201_1 Pin=U100-11
+Added Net: Name=NetJ201_1
+Added Pin To Net: NetName=NetJ201_2 Pin=J201-2
+Added Pin To Net: NetName=NetJ201_2 Pin=U100-10
+Added Net: Name=NetJ201_2
+Added Pin To Net: NetName=NetJ201_3 Pin=J201-3
+Added Pin To Net: NetName=NetJ201_3 Pin=U100-13
+Added Net: Name=NetJ201_3
+Added Pin To Net: NetName=NetJ201_4 Pin=J201-4
+Added Pin To Net: NetName=NetJ201_4 Pin=U100-12
+Added Net: Name=NetJ201_4
+Added Pin To Net: NetName=NetJ201_5 Pin=J201-5
+Added Pin To Net: NetName=NetJ201_5 Pin=U100-16
+Added Net: Name=NetJ201_5
+Added Pin To Net: NetName=NetJ201_6 Pin=J201-6
+Added Pin To Net: NetName=NetJ201_6 Pin=U100-15
+Added Net: Name=NetJ201_6
+Added Pin To Net: NetName=NetJ201_7 Pin=J201-7
+Added Pin To Net: NetName=NetJ201_7 Pin=U100-24
+Added Net: Name=NetJ201_7
+Added Pin To Net: NetName=NetJ201_8 Pin=J201-8
+Added Pin To Net: NetName=NetJ201_8 Pin=U100-34
+Added Net: Name=NetJ201_8
+Added Pin To Net: NetName=NetJ201_9 Pin=J201-9
+Added Pin To Net: NetName=NetJ201_9 Pin=U100-18
+Added Net: Name=NetJ201_9
+Added Member To Class: ClassName=Sheet2 Member=Component J203 61300211121

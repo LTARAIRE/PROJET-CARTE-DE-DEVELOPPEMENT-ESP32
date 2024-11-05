@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C100-2
+Removed Pin From Net: NetName=GND Pin=C101-2
+Removed Pin From Net: NetName=GND Pin=C102-2
+Removed Pin From Net: NetName=GND Pin=C103-2
+Removed Pin From Net: NetName=GND Pin=C104-2
+Removed Pin From Net: NetName=GND Pin=C105-2
+Removed Pin From Net: NetName=GND Pin=C106-2
+Removed Pin From Net: NetName=GND Pin=C108-2
+Removed Pin From Net: NetName=GND Pin=C109-2
+Removed Pin From Net: NetName=GND Pin=C110-2
+Removed Pin From Net: NetName=GND Pin=Q103-2
+Removed Pin From Net: NetName=GND Pin=U100-22
+Removed Pin From Net: NetName=GND Pin=U100-49
+Removed Pin From Net: NetName=GND Pin=U101-2
+Removed Pin From Net: NetName=GND Pin=U101-25
+Removed Pin From Net: NetName=GND Pin=U102-4
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1

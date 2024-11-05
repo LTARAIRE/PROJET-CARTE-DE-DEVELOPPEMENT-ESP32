@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C115-2
+Removed Pin From Net: NetName=GND Pin=C116-2
+Removed Pin From Net: NetName=GND Pin=C118-2
+Removed Member From Class: ClassName=Sheet1 Member=C115
+Removed Member From Class: ClassName=Sheet1 Member=C116
+Removed Member From Class: ClassName=Sheet1 Member=C117
+Removed Member From Class: ClassName=Sheet1 Member=C118
+Removed Member From Class: ClassName=Sheet1 Member=R102
+Removed Member From Class: ClassName=Sheet1 Member=R103
+Added Rule: Name=Schematic Differential Pairs Routing_1
+Added Rule: Name=Schematic Differential Pairs Routing_2
+Added Rule: Name=Schematic Differential Pairs Routing_3
+Added Rule: Name=Schematic Differential Pairs Routing_4

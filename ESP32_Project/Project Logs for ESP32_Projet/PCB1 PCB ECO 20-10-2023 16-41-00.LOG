@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=Vbat Pin=J202-3
+Removed Pin From Net: NetName=Vbat Pin=P200-1
+Removed Pin From Net: NetName=Vbat Pin=Q200-3
+Removed Pin From Net: NetName=NetR105_1 Pin=R105-1
+Removed Pin From Net: NetName=NetR105_1 Pin=R106-2
+Removed Pin From Net: NetName=NetR105_1 Pin=U100-20
+Change Component Comment : Designator=R105 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R106 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=C103 Old Comment=10uF New Comment=1uF
+Change Component Designator: OldDesignator=C105 NewDesignator=C106
+Change Component Designator: OldDesignator=C106 NewDesignator=C107
+Change Component Designator: OldDesignator=C107 NewDesignator=C108
+Change Component Designator: OldDesignator=C108 NewDesignator=C109
+Change Component Designator: OldDesignator=C109 NewDesignator=C110
+Change Component Designator: OldDesignator=C110 NewDesignator=C111
+Change Component Designator: OldDesignator=R106 NewDesignator=R107
+Added Component: Designator=C105(CAPC1005X06N)
+Added Component: Designator=Q102(SI3139K-TP)
+Added Component: Designator=Q103(BSS123)
+Added Component: Designator=R106(RESC1005X06N)
+Added Component: Designator=X100(430481025816)
+Added Pin To Net: NetName=3V3 Pin=C105-1
+Added Pin To Net: NetName=GND Pin=C105-2
+Added Pin To Net: NetName=NetR105_1 Pin=J202-3
+Added Pin To Net: NetName=NetR105_1 Pin=P200-1
+Added Pin To Net: NetName=Vbat Pin=Q102-2
+Added Pin To Net: NetName=NetR105_1 Pin=Q102-3
+Added Pin To Net: NetName=NetJ201_8 Pin=Q103-1
+Added Pin To Net: NetName=GND Pin=Q103-2
+Added Pin To Net: NetName=NetR105_1 Pin=Q200-3
+Added Pin To Net: NetName=NetR105_1 Pin=R106-2
+Added Pin To Net: NetName=Vbat Pin=X100-1
+Added Pin To Net: NetName=Vbat Pin=X100-2
+Added Pin To Net: NetName=NetR105_1 Pin=X100-3
+Added Pin To Net: NetName=NetR105_1 Pin=X100-4
+Change Net Name : Old Net Name=NetC105_1 New Net Name=NetC106_1
+Change Net Name : Old Net Name=NetC108_1 New Net Name=NetC109_1
+Change Net Name : Old Net Name=NetR105_1 New Net Name=Vbat
+Change Net Name : Old Net Name=Vbat New Net Name=Vbat_UNCUT
+Added Pin To Net: NetName=NetQ102_1 Pin=Q102-1
+Added Pin To Net: NetName=NetQ102_1 Pin=Q103-3
+Added Pin To Net: NetName=NetQ102_1 Pin=R105-1
+Added Net: Name=NetQ102_1
+Added Pin To Net: NetName=NetR106_1 Pin=R106-1
+Added Pin To Net: NetName=NetR106_1 Pin=R107-2
+Added Pin To Net: NetName=NetR106_1 Pin=U100-20
+Added Net: Name=NetR106_1
+Added Member To Class: ClassName=Sheet1 Member=Component C106 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C108 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C109 1.2pF
+Added Member To Class: ClassName=Sheet1 Member=Component C110 1.5pF
+Added Member To Class: ClassName=Sheet1 Member=Component C111 0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C201 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component L100 1.8nH
+Added Member To Class: ClassName=Sheet1 Member=Component Q102 SI3139K-TP
+Added Member To Class: ClassName=Sheet1 Member=Component Q103 BSS123
+Added Member To Class: ClassName=Sheet1 Member=Component R104 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R107 100K
+Added Member To Class: ClassName=Sheet1 Member=Component X100 430481025816

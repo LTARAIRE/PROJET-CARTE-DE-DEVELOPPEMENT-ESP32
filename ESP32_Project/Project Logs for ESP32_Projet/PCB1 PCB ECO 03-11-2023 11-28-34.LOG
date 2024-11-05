@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=R204-1
+Removed Pin From Net: NetName=NetJ200_B5 Pin=R204-2
+Change Component Designator: OldDesignator=C102 NewDesignator=C104
+Change Component Designator: OldDesignator=C103 NewDesignator=C102
+Change Component Designator: OldDesignator=C104 NewDesignator=C103
+Change Component Designator: OldDesignator=C108 NewDesignator=C107
+Change Component Designator: OldDesignator=C109 NewDesignator=C108
+Change Component Designator: OldDesignator=C110 NewDesignator=C109
+Change Component Designator: OldDesignator=C111 NewDesignator=C110
+Change Component Designator: OldDesignator=R203 NewDesignator=R204
+Added Component: Designator=R203(RESC1005X06N)
+Added Pin To Net: NetName=GND Pin=R203-1
+Added Pin To Net: NetName=NetJ200_B5 Pin=R203-2
+Change Net Name : Old Net Name=NetC109_1 New Net Name=NetC108_1
+Change Net Name : Old Net Name=NetR203_2 New Net Name=NetR204_2
+Added Member To Class: ClassName=Sheet1 Member=Component C103 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C104 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C108 1.2pF
+Added Member To Class: ClassName=Sheet1 Member=Component C109 1.5pF
+Added Member To Class: ClassName=Sheet1 Member=Component C110 0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component D201 824011
+Added Member To Class: ClassName=Sheet2 Member=Component J200 Connecteur USB
+Added Member To Class: ClassName=Sheet2 Member=Component J201 1-826629-0
+Added Member To Class: ClassName=Sheet2 Member=Component J202 1-826629-0
+Added Member To Class: ClassName=Sheet2 Member=Component J203 61300211121
+Added Member To Class: ClassName=Sheet2 Member=Component L200 Filtre en mode commun
+Added Member To Class: ClassName=Sheet2 Member=Component P200 Plage CMS 10x5
+Added Member To Class: ClassName=Sheet2 Member=Component P201 Plage CMS 10x5
+Added Member To Class: ClassName=Sheet2 Member=Component R201 5K1
+Added Member To Class: ClassName=Sheet2 Member=Component R203 5K1
+Added Member To Class: ClassName=Sheet2 Member=Component R204 10K

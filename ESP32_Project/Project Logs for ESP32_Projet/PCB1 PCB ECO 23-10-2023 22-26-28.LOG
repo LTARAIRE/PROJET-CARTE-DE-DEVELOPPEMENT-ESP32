@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetJ201_8 Pin=J201-8
+Change Net Name : Old Net Name=NetJ201_8 New Net Name=NetQ103_1
+Added Member To Class: ClassName=Sheet1 Member=Component C105 1nF
+Added Member To Class: ClassName=Sheet1 Member=Component C106 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C108 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C110 1.5pF
+Added Member To Class: ClassName=Sheet1 Member=Component R106 100K
